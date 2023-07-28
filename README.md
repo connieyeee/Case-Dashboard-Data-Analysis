@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/connieyeee/Case-Sales-Data-Analysis-Visualization/blob/main/assets/134975561/901ebf59-33ea-4413-9fa1-5b84cb693f57/3%201%20AdventureWorks_Logo%20png.png" alt="AdventureWorks Logo">
+![3 1 AdventureWorks_Logo png](https://github.com/connieyeee/Case-Sales-Data-Analysis-Visualization/assets/134975561/ea2f8ebc-6993-43f5-946f-37f72fcec83b)
 </div>
 
 ## 1. Project Overview
