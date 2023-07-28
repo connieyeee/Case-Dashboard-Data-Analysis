@@ -12,7 +12,7 @@ The analysis involves defining key performance indicators (KPIs) like adjusted p
 The results will be presented through an interactive dashboard, enabling users to explore data and gain valuable insights for data-driven decision-making.
 
 ## 3. Relational Model
-![屏幕截图 2023-07-28 154250](https://github.com/connieyeee/Case-Sales-Data-Analysis-Visualization/assets/134975561/b4f25e9d-f90a-458b-8ae2-928e95139775)
+![屏幕截图 2023-07-28 173341](https://github.com/connieyeee/Case-Sales-Data-Analysis-Visualization/assets/134975561/5a103902-cbb0-49e5-9ebd-8decafe7a22f)
 
 ## 4. Proof of Concept Dashboard Design
 ![屏幕截图 2023-07-28 154436](https://github.com/connieyeee/Case-Sales-Data-Analysis-Visualization/assets/134975561/c2df9ee2-dec3-4d2a-8fb2-f621a81772ff)
