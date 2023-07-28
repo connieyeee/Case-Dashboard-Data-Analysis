@@ -10,3 +10,12 @@ The analysis involves defining key performance indicators (KPIs) like adjusted p
 - Customer Detail page analyzing customer-centric KPIs.
 
 The results will be presented through an interactive dashboard, enabling users to explore data and gain valuable insights for data-driven decision-making.
+
+## 3. Relational Model
+![屏幕截图 2023-07-28 154250](https://github.com/connieyeee/Case-Sales-Data-Analysis-Visualization/assets/134975561/b4f25e9d-f90a-458b-8ae2-928e95139775)
+
+## 4. Proof of Concept Dashboard Design
+![屏幕截图 2023-07-28 154436](https://github.com/connieyeee/Case-Sales-Data-Analysis-Visualization/assets/134975561/c2df9ee2-dec3-4d2a-8fb2-f621a81772ff)
+![屏幕截图 2023-07-28 154449](https://github.com/connieyeee/Case-Sales-Data-Analysis-Visualization/assets/134975561/98d859b1-bbdf-4874-b078-d725e3eace9c)
+![屏幕截图 2023-07-28 154505](https://github.com/connieyeee/Case-Sales-Data-Analysis-Visualization/assets/134975561/3c9fd4e0-fb5c-47fa-97cc-13d73497203b)
+
