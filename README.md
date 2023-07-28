@@ -19,7 +19,7 @@ The results will be presented through an interactive dashboard, enabling users t
 ![屏幕截图 2023-07-28 154449](https://github.com/connieyeee/Case-Sales-Data-Analysis-Visualization/assets/134975561/98d859b1-bbdf-4874-b078-d725e3eace9c)
 ![屏幕截图 2023-07-28 154505](https://github.com/connieyeee/Case-Sales-Data-Analysis-Visualization/assets/134975561/3c9fd4e0-fb5c-47fa-97cc-13d73497203b)
 
-## Lessons Learned
+## 5. Lessons Learned
 
 ### Technology Challenges
 
