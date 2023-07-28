@@ -1,5 +1,5 @@
 <div align="center">
-![3 1 AdventureWorks_Logo png](https://github.com/connieyeee/Case-Sales-Data-Analysis-Visualization/assets/134975561/ea2f8ebc-6993-43f5-946f-37f72fcec83b)
+  <img src="https://github.com/username/repository/raw/main/path/to/your/image.png" alt="AdventureWorks Logo">
 </div>
 
 ## 1. Project Overview
