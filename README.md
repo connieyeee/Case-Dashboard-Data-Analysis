@@ -19,3 +19,30 @@ The results will be presented through an interactive dashboard, enabling users t
 ![屏幕截图 2023-07-28 154449](https://github.com/connieyeee/Case-Sales-Data-Analysis-Visualization/assets/134975561/98d859b1-bbdf-4874-b078-d725e3eace9c)
 ![屏幕截图 2023-07-28 154505](https://github.com/connieyeee/Case-Sales-Data-Analysis-Visualization/assets/134975561/3c9fd4e0-fb5c-47fa-97cc-13d73497203b)
 
+## Lessons Learned
+
+### Technology Challenges
+
+During this project, we encountered and overcame various technology challenges to analyze the AdventureWorks Database effectively. Key technology challenges included:
+
+- **Data Modeling and Relationship:** Creating a robust data model with well-defined relationships, primary keys, and foreign keys was crucial for accurate analysis and insights.
+
+- **Schema Creation:** Organizing the database schema efficiently facilitated seamless data manipulation and retrieval, contributing to the overall success of the project.
+
+- **DAX Functions:** Leveraging Data Analysis Expressions (DAX) functions such as filtering, conditional statements (IF), rolling functions, year-to-date (YTD), and actual vs. pre-month comparison was essential to compute significant KPIs for evaluating the company's performance.
+
+- **What-If Analysis:** Performing what-if analysis, particularly with price adjustments, allowed us to understand the potential impact on revenue and profit, providing valuable decision-making insights.
+
+### Business Insights
+
+The data analysis process yielded valuable business insights into Adventure Works Cycles' performance:
+
+- **Sales Performance:** Analyzing adjusted prices and sales data revealed top-performing products and sales trends, identifying growth opportunities.
+
+- **Customer Behavior:** Insights from return rates and customer purchase patterns aided in understanding customer satisfaction and loyalty, enhancing retention strategies.
+
+- **Revenue Trends:** Examining rolling revenue metrics and YTD revenue offered a clear view of financial performance, guiding decision-making.
+
+- **Competitive Analysis:** Comparing current revenue against pre-month revenue helped assess the company's competitive position and informed marketing and sales strategies.
+
+The successful integration of technology and business insights enabled data-driven decision-making and provided valuable recommendations for optimizing business performance.
