@@ -8,4 +8,5 @@ The analysis involves defining key performance indicators (KPIs) like adjusted p
 - Executive Summary offering an overview of company performance
 - Product Detail page focusing on product-specific metrics
 - Customer Detail page analyzing customer-centric KPIs.
+
 The results will be presented through an interactive dashboard, enabling users to explore data and gain valuable insights for data-driven decision-making.
